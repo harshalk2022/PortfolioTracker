@@ -1,8 +1,8 @@
 {
     "financial_summary": {
         "invested_value": 116590.7,
-        "current_value": 202907.86,
-        "pnl_value": 97764.11
+        "current_value": 219270.81,
+        "pnl_value": 102680.11
     },
     "current_holding_data": [
         {
@@ -126,9 +126,9 @@
             "total_amount": 2546.0,
             "min_datetime": "2024-06-21 15:13:00",
             "avg_price": 2546.0,
-            "close_price": 0.0,
-            "close_amount": 0.0,
-            "pnl_amount": 0.0,
+            "close_price": 2930.8,
+            "close_amount": 2930.8,
+            "pnl_amount": 384.8,
             "history": [
                 {
                     "scrip_name": "DEEPAK NITRITE LTD.-$",
@@ -139,9 +139,9 @@
                     "total_amount": 2546.0,
                     "min_datetime": "2024-06-21 15:13:00",
                     "avg_price": 2546.0,
-                    "close_price": 0.0,
-                    "close_amount": 0.0,
-                    "pnl_amount": 0.0
+                    "close_price": 2930.8,
+                    "close_amount": 2930.8,
+                    "pnl_amount": 384.8
                 }
             ]
         },
@@ -210,9 +210,9 @@
             "total_amount": 1332.0,
             "min_datetime": "2022-01-03 09:39:00",
             "avg_price": 266.4,
-            "close_price": 0.0,
-            "close_amount": 0.0,
-            "pnl_amount": 0.0,
+            "close_price": 161.45,
+            "close_amount": 807.25,
+            "pnl_amount": -524.75,
             "history": [
                 {
                     "scrip_name": "Gita Renewable Energy Ltd",
@@ -223,9 +223,9 @@
                     "total_amount": 1332.0,
                     "min_datetime": "2022-01-03 09:39:00",
                     "avg_price": 266.4,
-                    "close_price": 0.0,
-                    "close_amount": 0.0,
-                    "pnl_amount": 0.0
+                    "close_price": 161.45,
+                    "close_amount": 807.25,
+                    "pnl_amount": -524.75
                 }
             ]
         },
@@ -294,9 +294,9 @@
             "total_amount": 7025.0,
             "min_datetime": "2021-12-27 09:52:00",
             "avg_price": 234.17,
-            "close_price": 0.0,
-            "close_amount": 0.0,
-            "pnl_amount": 0.0,
+            "close_price": 412.8,
+            "close_amount": 12384.0,
+            "pnl_amount": 5359.0,
             "history": [
                 {
                     "scrip_name": "K.P. Energy Ltd",
@@ -307,9 +307,9 @@
                     "total_amount": 7025.0,
                     "min_datetime": "2021-12-27 09:52:00",
                     "avg_price": 234.17,
-                    "close_price": 0.0,
-                    "close_amount": 0.0,
-                    "pnl_amount": 0.0
+                    "close_price": 412.8,
+                    "close_amount": 12384.0,
+                    "pnl_amount": 5359.0
                 }
             ]
         },
@@ -378,9 +378,9 @@
             "total_amount": 1250.0,
             "min_datetime": "2021-11-29 09:11:00",
             "avg_price": 12.5,
-            "close_price": 77.27,
-            "close_amount": 7727.0,
-            "pnl_amount": 6477.0,
+            "close_price": 77.08,
+            "close_amount": 7708.0,
+            "pnl_amount": 6458.0,
             "history": [
                 {
                     "scrip_name": "Lloyds Engineering Works Ltd",
@@ -391,9 +391,9 @@
                     "total_amount": 1250.0,
                     "min_datetime": "2021-11-29 09:11:00",
                     "avg_price": 12.5,
-                    "close_price": 77.27,
-                    "close_amount": 7727.0,
-                    "pnl_amount": 6477.0
+                    "close_price": 77.08,
+                    "close_amount": 7708.0,
+                    "pnl_amount": 6458.0
                 }
             ]
         },
@@ -462,9 +462,9 @@
             "total_amount": 225.95,
             "min_datetime": "2022-02-16 09:15:00",
             "avg_price": 225.95,
-            "close_price": 0.0,
-            "close_amount": 0.0,
-            "pnl_amount": 0.0,
+            "close_price": 131.9,
+            "close_amount": 131.9,
+            "pnl_amount": -94.05,
             "history": [
                 {
                     "scrip_name": "RAGHUVIR SYNTHETICS LTD.",
@@ -475,9 +475,9 @@
                     "total_amount": 225.95,
                     "min_datetime": "2022-02-16 09:15:00",
                     "avg_price": 225.95,
-                    "close_price": 0.0,
-                    "close_amount": 0.0,
-                    "pnl_amount": 0.0
+                    "close_price": 131.9,
+                    "close_amount": 131.9,
+                    "pnl_amount": -94.05
                 }
             ]
         },
@@ -574,9 +574,9 @@
             "total_amount": 318.0,
             "min_datetime": "2022-02-24 10:00:00",
             "avg_price": 0.8,
-            "close_price": 0.0,
-            "close_amount": 0.0,
-            "pnl_amount": 0.0,
+            "close_price": 0.32,
+            "close_amount": 128.0,
+            "pnl_amount": -190.0,
             "history": [
                 {
                     "scrip_name": "Sword-Edge Commercials Limited",
@@ -587,9 +587,9 @@
                     "total_amount": 318.0,
                     "min_datetime": "2022-02-24 10:00:00",
                     "avg_price": 0.8,
-                    "close_price": 0.0,
-                    "close_amount": 0.0,
-                    "pnl_amount": 0.0
+                    "close_price": 0.32,
+                    "close_amount": 128.0,
+                    "pnl_amount": -190.0
                 }
             ]
         },
@@ -12271,6 +12271,23 @@
             },
             {
                 "segment": "EQ",
+                "symbol": "DEEPAKNTR",
+                "dividend_amount": 7.5,
+                "data": [
+                    {
+                        "financial_year": "FY2024-25",
+                        "dividend_amount": 7.5,
+                        "data": [
+                            {
+                                "date": "2024-07-29",
+                                "dividend_amount": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "segment": "EQ",
                 "symbol": "GRAVITA",
                 "dividend_amount": 125.5,
                 "data": [
@@ -12335,6 +12352,69 @@
             },
             {
                 "segment": "EQ",
+                "symbol": "KPEL",
+                "dividend_amount": 13.2,
+                "data": [
+                    {
+                        "financial_year": "FY2021-22",
+                        "dividend_amount": 1.2,
+                        "data": [
+                            {
+                                "date": "2022-01-24",
+                                "dividend_amount": 1.2
+                            }
+                        ]
+                    },
+                    {
+                        "financial_year": "FY2022-23",
+                        "dividend_amount": 4.5,
+                        "data": [
+                            {
+                                "date": "2022-08-22",
+                                "dividend_amount": 1.2
+                            },
+                            {
+                                "date": "2022-09-22",
+                                "dividend_amount": 1.2
+                            },
+                            {
+                                "date": "2022-11-01",
+                                "dividend_amount": 0.9
+                            },
+                            {
+                                "date": "2023-02-07",
+                                "dividend_amount": 1.2
+                            }
+                        ]
+                    },
+                    {
+                        "financial_year": "FY2023-24",
+                        "dividend_amount": 4.5,
+                        "data": [
+                            {
+                                "date": "2023-08-21",
+                                "dividend_amount": 2.4
+                            },
+                            {
+                                "date": "2023-11-17",
+                                "dividend_amount": 2.1
+                            }
+                        ]
+                    },
+                    {
+                        "financial_year": "FY2024-25",
+                        "dividend_amount": 3.0,
+                        "data": [
+                            {
+                                "date": "2024-08-23",
+                                "dividend_amount": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "segment": "EQ",
                 "symbol": "KPITTECH",
                 "dividend_amount": 278.0,
                 "data": [
@@ -12391,8 +12471,28 @@
             {
                 "segment": "EQ",
                 "symbol": "LLOYDSENGG",
-                "dividend_amount": 20.0,
+                "dividend_amount": 35.0,
                 "data": [
+                    {
+                        "financial_year": "FY2022-23",
+                        "dividend_amount": 5.0,
+                        "data": [
+                            {
+                                "date": "2022-08-04",
+                                "dividend_amount": 5.0
+                            }
+                        ]
+                    },
+                    {
+                        "financial_year": "FY2023-24",
+                        "dividend_amount": 10.0,
+                        "data": [
+                            {
+                                "date": "2023-07-17",
+                                "dividend_amount": 10.0
+                            }
+                        ]
+                    },
                     {
                         "financial_year": "FY2024-25",
                         "dividend_amount": 20.0,
@@ -12578,19 +12678,19 @@
         "year_wise": [
             {
                 "financial_year": "FY2021-22",
-                "dividend_amount": 56.0
+                "dividend_amount": 57.2
             },
             {
                 "financial_year": "FY2022-23",
-                "dividend_amount": 251.37
+                "dividend_amount": 260.87
             },
             {
                 "financial_year": "FY2023-24",
-                "dividend_amount": 274.2
+                "dividend_amount": 288.7
             },
             {
                 "financial_year": "FY2024-25",
-                "dividend_amount": 309.4
+                "dividend_amount": 319.9
             }
         ]
     }

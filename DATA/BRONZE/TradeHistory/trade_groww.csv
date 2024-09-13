@@ -1,145 +1,154 @@
-date,company,amount,exchange,segment,scrip_code,instrument_type,strike_price,expiry,trade_num,trade_time,side,quantity,price
-2024-08-27 00:00:00,Orient Green Power Company Ltd.,392.23,NSE,EQ,533263,Equity,,,0,11:02:00,Sell,61,6.43
-2024-07-29 00:00:00,MPS Infotecnics,82,NSE,EQ,532411,Equity,,,0,14:08:00,Sell,200,0.41
-2024-07-04 00:00:00,Capital Trade Links,2147.78,NSE,EQ,538476,Equity,,,0,14:55:00,Sell,34,63.17
-2024-07-04 00:00:00,RattanIndia Power,3424,NSE,EQ,533122,Equity,,,0,14:54:00,Sell,200,17.12
-2024-06-21 00:00:00,IDFC First Bank,1920.5,NSE,EQ,539437,Equity,,,0,15:14:00,Buy,23,83.5
-2024-06-21 00:00:00,Deepak Nitrite,2546,NSE,EQ,506401,Equity,,,0,15:13:00,Buy,1,2546
-2024-06-21 00:00:00,KNR Constructions,2824,NSE,EQ,532942,Equity,,,0,15:09:00,Buy,8,353
-2024-03-13 00:00:00,Urja Global,2000,NSE,EQ,526987,Equity,,,0,09:34:00,Sell,100,20
-2024-01-19 00:00:00,Cressanda Railway Solutions,600,NSE,EQ,512379,Equity,,,0,10:38:00,Sell,25,24
-2024-01-18 00:00:00,RattanIndia Power,5250,NSE,EQ,533122,Equity,,,0,12:55:00,Sell,500,10.5
-2024-01-18 00:00:00,Capital Trade Links,40.2,NSE,EQ,538476,Equity,,,0,10:48:00,Sell,1,40.2
-2023-11-23 00:00:00,Prakash Steelage,1650,NSE,EQ,533239,Equity,,,0,13:41:00,Sell,300,5.5
-2023-11-20 00:00:00,Orient Green Power Company,9280,NSE,EQ,533263,Equity,,,0,14:37:00,Sell,400,23.2
-2023-09-07 00:00:00,Orient Green Power Company,2740,NSE,EQ,533263,Equity,,,0,15:17:00,Sell,200,13.7
-2022-08-12 00:00:00,Data Patterns (India),1664,NSE,EQ,543428,Equity,,,0,09:37:00,Sell,2,832
-2022-07-06 00:00:00,Campus Activewear,1732.75,NSE,EQ,543523,Equity,,,0,09:55:00,Sell,5,346.55
-2022-06-03 00:00:00,Virtual Global Education,700,NSE,EQ,534741,Equity,,,0,09:52:00,Sell,500,1.4
-2022-05-25 00:00:00,Jaiprakash Power Ventures,700,NSE,EQ,532627,Equity,,,0,14:32:00,Sell,100,7
-2022-05-20 00:00:00,Sword-Edge Commercials,154,NSE,EQ,512359,Equity,,,0,14:14:00,Sell,200,0.77
-2022-05-09 00:00:00,Campus Activewear,1700,NSE,EQ,543523,Equity,,,0,10:03:00,Buy,5,340
-2022-05-09 00:00:00,Lloyds Engineering Works,2766,NSE,EQ,539992,Equity,,,0,09:54:00,Sell,200,13.83
-2022-05-09 00:00:00,Lloyds Engineering Works,4230,NSE,EQ,539992,Equity,,,0,09:52:00,Sell,300,14.1
-2022-05-06 00:00:00,Tata Teleservices (Maharashtra),9688,NSE,EQ,532371,Equity,,,0,10:13:00,Sell,70,138.4
-2022-03-17 00:00:00,Cressanda Railway Solutions,320.75,NSE,EQ,512379,Equity,,,0,11:09:00,Sell,25,12.83
-2022-02-28 00:00:00,Lloyds Engineering Works,12630,NSE,EQ,539992,Equity,,,0,13:00:00,Sell,1000,12.63
-2022-02-24 00:00:00,Sword-Edge Commercials,492,NSE,EQ,512359,Equity,,,0,10:00:00,Sell,600,0.82
-2022-02-21 00:00:00,Reliance Power,1400,NSE,EQ,532939,Equity,,,0,11:10:00,Sell,100,14
-2022-02-16 00:00:00,Raghuvir Synthetics,225.95,NSE,EQ,514316,Equity,,,0,09:15:00,Buy,1,225.95
-2022-02-11 00:00:00,Cressanda Railway Solutions,1987.5,NSE,EQ,512379,Equity,,,0,12:30:00,Sell,250,7.95
-2022-02-11 00:00:00,Brightcom Group,316.1,NSE,EQ,532368,Equity,,,0,09:17:00,Buy,2,158.05
-2022-02-08 00:00:00,Yamini Investments Company,236,NSE,EQ,511012,Equity,,,0,09:20:00,Sell,100,2.36
-2022-02-01 00:00:00,Gravita India,3714.5,NSE,EQ,533282,Equity,,,0,12:44:00,Buy,10,371.45
-2022-02-01 00:00:00,HFCL,424.75,NSE,EQ,500183,Equity,,,0,12:04:00,Buy,5,84.95
-2022-01-31 00:00:00,Vikas Lifecare,1923,NSE,EQ,542655,Equity,,,0,09:16:00,Buy,300,6.41
-2022-01-31 00:00:00,FCS Software Solutions,1012.5,NSE,EQ,532666,Equity,,,0,09:12:00,Buy,150,6.75
-2022-01-28 00:00:00,KPIT Technologies,6411,NSE,EQ,542651,Equity,,,0,09:26:00,Buy,10,641.1
-2022-01-25 00:00:00,Brightcom Group,854.5,NSE,EQ,532368,Equity,,,0,10:03:00,Buy,5,170.9
-2022-01-25 00:00:00,RattanIndia Enterprises,533.5,NSE,EQ,534597,Equity,,,0,10:03:00,Buy,10,53.35
-2022-01-25 00:00:00,RattanIndia Enterprises,536.5,NSE,EQ,534597,Equity,,,0,10:01:00,Buy,10,53.65
-2022-01-25 00:00:00,Suzlon Energy,432,NSE,EQ,532667,Equity,,,0,09:57:00,Buy,40,10.8
-2022-01-25 00:00:00,Reliance Power,150,NSE,EQ,532939,Equity,,,0,09:50:00,Buy,10,15
-2022-01-24 00:00:00,Tata Power Company,2279,NSE,EQ,500400,Equity,,,0,15:29:00,Buy,10,227.9
-2022-01-24 00:00:00,MPS Infotecnics,290,NSE,EQ,532411,Equity,,,0,10:34:00,Buy,200,1.45
-2022-01-21 00:00:00,Trident,649,NSE,EQ,521064,Equity,,,0,14:12:00,Buy,10,64.9
-2022-01-21 00:00:00,Orient Green Power Company,4410,NSE,EQ,533263,Equity,,,0,14:02:00,Buy,200,22.05
-2022-01-11 00:00:00,Reliance Power,153,NSE,EQ,532939,Equity,,,0,09:13:00,Buy,10,15.3
-2022-01-11 00:00:00,Reliance Power,1224,NSE,EQ,532939,Equity,,,0,00:22:00,Buy,80,15.3
-2022-01-09 00:00:00,Viji Finance,570,NSE,EQ,537820,Equity,,,0,23:24:00,Sell,100,5.7
-2022-01-07 00:00:00,Suzlon Energy,105.5,NSE,EQ,532667,Equity,,,0,09:30:00,Buy,10,10.55
-2022-01-07 00:00:00,RattanIndia Power,750,NSE,EQ,533122,Equity,,,0,09:19:00,Buy,100,7.5
-2022-01-07 00:00:00,RattanIndia Power,700.3,NSE,EQ,533122,Equity,,,0,09:17:00,Buy,94,7.45
-2022-01-06 00:00:00,Trident,1072,NSE,EQ,521064,Equity,,,0,11:27:00,Buy,20,53.6
-2022-01-06 00:00:00,Trident,533.5,NSE,EQ,521064,Equity,,,0,11:25:00,Buy,10,53.35
-2022-01-06 00:00:00,RattanIndia Power,2220,NSE,EQ,533122,Equity,,,0,10:09:00,Buy,300,7.4
-2022-01-06 00:00:00,RattanIndia Power,43.8,NSE,EQ,533122,Equity,,,0,10:08:00,Buy,6,7.3
-2022-01-06 00:00:00,Suzlon Energy,388,NSE,EQ,532667,Equity,,,0,09:43:00,Buy,40,9.7
-2022-01-06 00:00:00,Suzlon Energy,96,NSE,EQ,532667,Equity,,,0,09:41:00,Buy,10,9.6
-2022-01-06 00:00:00,Suzlon Energy,97.5,NSE,EQ,532667,Equity,,,0,09:41:00,Buy,10,9.75
-2022-01-06 00:00:00,Suzlon Energy,96,NSE,EQ,532667,Equity,,,0,09:39:00,Buy,10,9.6
-2022-01-06 00:00:00,Brightcom Group,773,NSE,EQ,532368,Equity,,,0,09:17:00,Buy,5,154.6
-2022-01-06 00:00:00,Brightcom Group,6032,NSE,EQ,532368,Equity,,,0,09:15:00,Buy,40,150.8
-2022-01-06 00:00:00,Brightcom Group,1500,NSE,EQ,532368,Equity,,,0,09:09:00,Buy,10,150
-2022-01-05 00:00:00,FCS Software Solutions,972,NSE,EQ,532666,Equity,,,0,09:28:00,Buy,150,6.48
-2022-01-05 00:00:00,Vikas Lifecare,460,NSE,EQ,542655,Equity,,,0,09:20:00,Buy,100,4.6
-2022-01-04 00:00:00,Suzlon Energy,816,NSE,EQ,532667,Equity,,,0,12:25:00,Buy,80,10.2
-2022-01-04 00:00:00,Suzlon Energy,51,NSE,EQ,532667,Equity,,,0,12:25:00,Buy,5,10.2
-2022-01-04 00:00:00,Urja Global,1140,NSE,EQ,526987,Equity,,,0,12:23:00,Buy,50,22.8
-2022-01-04 00:00:00,Suzlon Energy,212,NSE,EQ,532667,Equity,,,0,09:43:00,Buy,20,10.6
-2022-01-04 00:00:00,RattanIndia Enterprises,1032,NSE,EQ,534597,Equity,,,0,09:18:00,Buy,20,51.6
-2022-01-03 00:00:00,Gita Renewable Energy,1332,NSE,EQ,539013,Equity,,,0,09:39:00,Buy,5,266.4
-2022-01-03 00:00:00,Trident,537.5,NSE,EQ,521064,Equity,,,0,09:36:00,Buy,10,53.75
-2022-01-03 00:00:00,Cressanda Railway Solutions,475.3,NSE,EQ,512379,Equity,,,0,09:33:00,Buy,70,6.79
-2022-01-03 00:00:00,RattanIndia Power,770,NSE,EQ,533122,Equity,,,0,09:30:00,Buy,100,7.7
-2022-01-03 00:00:00,Capital Trade Links,4160.16,NSE,EQ,538476,Equity,,,0,09:26:00,Sell,324,12.84
-2022-01-03 00:00:00,RattanIndia Power,382.5,NSE,EQ,533122,Equity,,,0,09:22:00,Buy,50,7.65
-2021-12-31 00:00:00,KPIT Technologies,6123,NSE,EQ,542651,Equity,,,0,13:50:00,Buy,10,612.3
-2021-12-31 00:00:00,Viji Finance,312.5,NSE,EQ,537820,Equity,,,0,13:22:00,Buy,50,6.25
-2021-12-31 00:00:00,Viji Finance,312.5,NSE,EQ,537820,Equity,,,0,13:21:00,Buy,50,6.25
-2021-12-31 00:00:00,K.P. Energy Limited,2283,NSE,EQ,539686,Equity,,,0,10:10:00,Buy,10,228.3
-2021-12-31 00:00:00,Cressanda Railway Solutions,64.7,NSE,EQ,512379,Equity,,,0,09:25:00,Buy,10,6.47
-2021-12-31 00:00:00,Cressanda Railway Solutions,1294,NSE,EQ,512379,Equity,,,0,09:24:00,Buy,200,6.47
-2021-12-30 00:00:00,Cressanda Railway Solutions,6.17,NSE,EQ,512379,Equity,,,0,10:23:00,Buy,1,6.17
-2021-12-30 00:00:00,Cressanda Railway Solutions,117.23,NSE,EQ,512379,Equity,,,0,10:15:00,Buy,19,6.17
-2021-12-29 00:00:00,Suzlon Energy,223.75,NSE,EQ,532667,Equity,,,0,11:40:00,Buy,25,8.95
-2021-12-29 00:00:00,RattanIndia Power,337.5,NSE,EQ,533122,Equity,,,0,11:35:00,Buy,50,6.75
-2021-12-29 00:00:00,RattanIndia Enterprises,1924,NSE,EQ,534597,Equity,,,0,10:56:00,Buy,40,48.1
-2021-12-29 00:00:00,Jaiprakash Power Ventures,332.5,NSE,EQ,532627,Equity,,,0,09:32:00,Buy,50,6.65
-2021-12-29 00:00:00,Prakash Steelage,302.5,NSE,EQ,533239,Equity,,,0,09:27:00,Buy,50,6.05
-2021-12-28 00:00:00,Prakash Steelage,922.5,NSE,EQ,533239,Equity,,,0,15:48:00,Buy,150,6.15
-2021-12-28 00:00:00,Sword-Edge Commercials,252,NSE,EQ,512359,Equity,,,0,09:37:00,Buy,200,1.26
-2021-12-27 00:00:00,RattanIndia Enterprises,460,NSE,EQ,534597,Equity,,,0,10:48:00,Buy,10,46
-2021-12-27 00:00:00,K.P. Energy Limited,4742,NSE,EQ,539686,Equity,,,0,09:52:00,Buy,20,237.1
-2021-12-27 00:00:00,Capital Trade Links,5375,NSE,EQ,538476,Equity,,,0,09:15:00,Sell,500,10.75
-2021-12-24 00:00:00,Urja Global,850,NSE,EQ,526987,Equity,,,0,16:04:00,Buy,50,17
-2021-12-24 00:00:00,Data Patterns (India),1592,NSE,EQ,543428,Equity,,,0,10:11:00,Buy,2,796
-2021-12-24 00:00:00,Sword-Edge Commercials,230,NSE,EQ,512359,Equity,,,0,09:53:00,Buy,200,1.15
-2021-12-24 00:00:00,Brightcom Group,4000,NSE,EQ,532368,Equity,,,0,09:42:00,Buy,20,200
-2021-12-24 00:00:00,Tata Teleservices (Maharashtra),8090,NSE,EQ,532371,Equity,,,0,09:16:00,Buy,50,161.8
-2021-12-23 00:00:00,Tata Teleservices (Maharashtra),1541,NSE,EQ,532371,Equity,,,0,10:23:00,Buy,10,154.1
-2021-12-23 00:00:00,Punjab National Bank,75.9,NSE,EQ,532461,Equity,,,0,09:45:00,Sell,2,37.95
-2021-12-23 00:00:00,Sintex Industries,10101,NSE,EQ,502742,Equity,,,0,09:17:00,Sell,740,13.65
-2021-12-22 00:00:00,Prakash Steelage,50,NSE,EQ,533239,Equity,,,0,10:05:00,Buy,10,5
-2021-12-22 00:00:00,Prakash Steelage,49.5,NSE,EQ,533239,Equity,,,0,10:03:00,Buy,10,4.95
-2021-12-22 00:00:00,Brightcom Group,3717,NSE,EQ,532368,Equity,,,0,09:41:00,Buy,20,185.85
-2021-12-22 00:00:00,Exide Industries,7965,NSE,EQ,500086,Equity,,,0,09:18:00,Sell,50,159.3
-2021-12-22 00:00:00,Exide Industries,7912.5,NSE,EQ,500086,Equity,,,0,09:16:00,Buy,50,158.25
-2021-12-21 00:00:00,Tata Power Company,4293,NSE,EQ,500400,Equity,,,0,13:09:00,Buy,20,214.65
-2021-12-21 00:00:00,HFCL,1154.25,NSE,EQ,500183,Equity,,,0,11:34:00,Buy,15,76.95
-2021-12-21 00:00:00,Prakash Steelage,52,NSE,EQ,533239,Equity,,,0,11:14:00,Buy,10,5.2
-2021-12-21 00:00:00,Prakash Steelage,52,NSE,EQ,533239,Equity,,,0,11:13:00,Buy,10,5.2
-2021-12-21 00:00:00,Virtual Global Education,318,NSE,EQ,534741,Equity,,,0,11:01:00,Buy,200,1.59
-2021-12-21 00:00:00,Jaiprakash Power Ventures,150,NSE,EQ,532627,Equity,,,0,11:01:00,Buy,30,5
-2021-12-20 00:00:00,Suzlon Energy,365,NSE,EQ,532667,Equity,,,0,16:05:00,Buy,50,7.3
-2021-12-20 00:00:00,Jaiprakash Power Ventures,96,NSE,EQ,532627,Equity,,,0,09:46:00,Buy,20,4.8
-2021-12-15 00:00:00,HFCL,825.5,NSE,EQ,500183,Equity,,,0,10:03:00,Buy,10,82.55
-2021-12-10 00:00:00,Prakash Steelage,381,NSE,EQ,533239,Equity,,,0,09:54:00,Buy,60,6.35
-2021-12-09 00:00:00,Trident,2800,NSE,EQ,521064,Equity,,,0,16:17:00,Buy,50,56
-2021-12-03 00:00:00,Virtual Global Education,444,NSE,EQ,534741,Equity,,,0,09:30:00,Sell,400,1.11
-2021-12-02 00:00:00,Virtual Global Education,348,NSE,EQ,534741,Equity,,,0,09:16:00,Buy,300,1.16
-2021-11-29 00:00:00,Tata Teleservices (Maharashtra),16080,NSE,EQ,532371,Equity,,,0,09:40:00,Sell,150,107.2
-2021-11-29 00:00:00,Tata Teleservices (Maharashtra),10155.6,NSE,EQ,532371,Equity,,,0,09:25:00,Buy,104,97.65
-2021-11-29 00:00:00,Tata Teleservices (Maharashtra),6996,NSE,EQ,532371,Equity,,,0,09:12:00,Buy,66,106
-2021-11-29 00:00:00,Lloyds Engineering Works,18750,NSE,EQ,539992,Equity,,,0,09:11:00,Buy,1500,12.5
-2021-11-28 00:00:00,Sintex Industries,9953,NSE,EQ,502742,Equity,,,0,21:02:00,Buy,740,13.45
-2021-11-28 00:00:00,Capital Trade Links,10800,NSE,EQ,538476,Equity,,,0,20:48:00,Buy,1000,10.8
-2021-11-28 00:00:00,Orient Green Power Company,4625,NSE,EQ,533263,Equity,,,0,20:42:00,Buy,500,9.25
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),10200,NSE,EQ,532371,Equity,,,0,10:14:00,Sell,100,102
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),676.2,NSE,EQ,532371,Equity,,,0,10:09:00,Buy,7,96.6
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),1292.85,NSE,EQ,532371,Equity,,,0,09:59:00,Buy,13,99.45
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),694.4,NSE,EQ,532371,Equity,,,0,09:51:00,Buy,7,99.2
-2021-11-26 00:00:00,Virtual Global Education,90,NSE,EQ,534741,Equity,,,0,09:24:00,Buy,100,0.9
-2021-11-26 00:00:00,Virtual Global Education,93,NSE,EQ,534741,Equity,,,0,09:19:00,Buy,100,0.93
-2021-11-26 00:00:00,Virtual Global Education,94,NSE,EQ,534741,Equity,,,0,09:19:00,Buy,100,0.94
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),4044.15,NSE,EQ,532371,Equity,,,0,09:09:00,Buy,43,94.05
-2021-11-26 00:00:00,Tata Teleservices (Maharashtra),4862.5,NSE,EQ,532371,Equity,,,0,08:55:00,Buy,50,97.25
-2021-11-26 00:00:00,Virtual Global Education,97,NSE,EQ,534741,Equity,,,0,01:40:00,Buy,100,0.97
-2021-11-25 00:00:00,Capital Trade Links,121.1,NSE,EQ,538476,Equity,,,0,09:31:00,Buy,14,8.65
-2021-11-25 00:00:00,Yamini Investments Company,97,NSE,EQ,511012,Equity,,,0,00:02:00,Buy,100,0.97
-2021-11-24 00:00:00,Capital Trade Links,73.5,NSE,EQ,538476,Equity,,,0,09:36:00,Buy,10,7.35
-2021-11-24 00:00:00,Lloyds Engineering Works,442.8,NSE,EQ,539992,Equity,,,0,09:19:00,Buy,40,11.07
-2021-11-24 00:00:00,Lloyds Engineering Works,553.5,NSE,EQ,539992,Equity,,,0,09:18:00,Buy,50,11.07
-2021-11-22 00:00:00,Lloyds Engineering Works,67.55,NSE,EQ,539992,Equity,,,0,09:31:00,Buy,7,9.65
-2021-11-15 00:00:00,Lloyds Engineering Works,24.9,NSE,EQ,539992,Equity,,,0,00:45:00,Buy,3,8.3
-2021-11-08 00:00:00,Bank of Baroda,103.2,NSE,EQ,532134,Equity,,,0,09:01:00,Sell,1,103.2
+date,company,amount,exchange,segment,scrip_code,instrument_type,strike_price,expiry,trade_num,trade_time,side,quantity,qt,price,note
+2021-12-22 00:00:00,Exide Industries,7965,NSE,EQ,500086,Equity,,,0,09:18:00,Sell,50,-50,159.3,
+2021-12-22 00:00:00,Exide Industries,7912.5,NSE,EQ,500086,Equity,,,0,09:16:00,Buy,50,50,158.25,
+2021-12-15 00:00:00,HFCL,825.5,NSE,EQ,500183,Equity,,,0,10:03:00,Buy,10,10,82.55,
+2021-12-21 00:00:00,HFCL,1154.25,NSE,EQ,500183,Equity,,,0,11:34:00,Buy,15,15,76.95,
+2022-02-01 00:00:00,HFCL,424.75,NSE,EQ,500183,Equity,,,0,12:04:00,Buy,5,5,84.95,
+2021-12-21 00:00:00,Tata Power Company,4293,NSE,EQ,500400,Equity,,,0,13:09:00,Buy,20,20,214.65,
+2022-01-24 00:00:00,Tata Power Company,2279,NSE,EQ,500400,Equity,,,0,15:29:00,Buy,10,10,227.9,
+2021-11-28 00:00:00,Sintex Industries,9953,NSE,EQ,502742,Equity,,,0,21:02:00,Buy,740,740,13.45,
+2021-12-23 00:00:00,Sintex Industries,10101,NSE,EQ,502742,Equity,,,0,09:17:00,Sell,740,-740,13.65,
+2024-06-21 00:00:00,Deepak Nitrite,2546,NSE,EQ,506401,Equity,,,0,15:13:00,Buy,1,1,2546,
+2021-11-25 00:00:00,Yamini Investments Company,97,NSE,EQ,511012,Equity,,,0,00:02:00,Buy,100,100,0.97,
+2022-02-08 00:00:00,Yamini Investments Company,236,NSE,EQ,511012,Equity,,,0,09:20:00,Sell,100,-100,2.36,
+2021-12-24 00:00:00,Sword-Edge Commercials,230,NSE,EQ,512359,Equity,,,0,09:53:00,Buy,200,200,1.15,
+2021-12-28 00:00:00,Sword-Edge Commercials,252,NSE,EQ,512359,Equity,,,0,09:37:00,Buy,200,200,1.26,
+2022-02-24 00:00:00,Sword-Edge Commercials,492,NSE,EQ,512359,Equity,,,0,10:00:00,Sell,600,-600,0.82,
+2022-05-20 00:00:00,Sword-Edge Commercials,154,NSE,EQ,512359,Equity,,,0,14:14:00,Sell,200,-200,0.77,
+2022-02-03 00:00:00,Sword-Edge Commercials,0,NSE,EQ,512359,Equity,,,0,00:00:00,Buy,400,400,0,Split 2:1
+2021-12-30 00:00:00,Cressanda Railway Solutions,6.17,NSE,EQ,512379,Equity,,,0,10:23:00,Buy,1,1,6.17,
+2021-12-30 00:00:00,Cressanda Railway Solutions,117.23,NSE,EQ,512379,Equity,,,0,10:15:00,Buy,19,19,6.17,
+2021-12-31 00:00:00,Cressanda Railway Solutions,64.7,NSE,EQ,512379,Equity,,,0,09:25:00,Buy,10,10,6.47,
+2021-12-31 00:00:00,Cressanda Railway Solutions,1294,NSE,EQ,512379,Equity,,,0,09:24:00,Buy,200,200,6.47,
+2022-01-03 00:00:00,Cressanda Railway Solutions,475.3,NSE,EQ,512379,Equity,,,0,09:33:00,Buy,70,70,6.79,
+2022-02-11 00:00:00,Cressanda Railway Solutions,1987.5,NSE,EQ,512379,Equity,,,0,12:30:00,Sell,250,-250,7.95,
+2022-03-17 00:00:00,Cressanda Railway Solutions,320.75,NSE,EQ,512379,Equity,,,0,11:09:00,Sell,25,-25,12.83,
+2024-01-19 00:00:00,Cressanda Railway Solutions,600,NSE,EQ,512379,Equity,,,0,10:38:00,Sell,25,-25,24,
+2022-02-16 00:00:00,Raghuvir Synthetics,225.95,NSE,EQ,514316,Equity,,,0,09:15:00,Buy,1,1,225.95,
+2021-12-09 00:00:00,Trident,2800,NSE,EQ,521064,Equity,,,0,16:17:00,Buy,50,50,56,
+2022-01-03 00:00:00,Trident,537.5,NSE,EQ,521064,Equity,,,0,09:36:00,Buy,10,10,53.75,
+2022-01-06 00:00:00,Trident,1072,NSE,EQ,521064,Equity,,,0,11:27:00,Buy,20,20,53.6,
+2022-01-06 00:00:00,Trident,533.5,NSE,EQ,521064,Equity,,,0,11:25:00,Buy,10,10,53.35,
+2022-01-21 00:00:00,Trident,649,NSE,EQ,521064,Equity,,,0,14:12:00,Buy,10,10,64.9,
+2021-12-24 00:00:00,Urja Global,850,NSE,EQ,526987,Equity,,,0,16:04:00,Buy,50,50,17,
+2022-01-04 00:00:00,Urja Global,1140,NSE,EQ,526987,Equity,,,0,12:23:00,Buy,50,50,22.8,
+2024-03-13 00:00:00,Urja Global,2000,NSE,EQ,526987,Equity,,,0,09:34:00,Sell,100,-100,20,
+2021-10-28 00:00:00,Bank of Baroda,100.2,NSE,EQ,532134,Equity,,,0,00:02:00,Buy,1,1,100.2,
+2021-11-08 00:00:00,Bank of Baroda,103.2,NSE,EQ,532134,Equity,,,0,09:01:00,Sell,1,-1,103.2,
+2021-12-22 00:00:00,Brightcom Group,3717,NSE,EQ,532368,Equity,,,0,09:41:00,Buy,20,20,185.85,
+2021-12-24 00:00:00,Brightcom Group,4000,NSE,EQ,532368,Equity,,,0,09:42:00,Buy,20,20,200,
+2022-01-06 00:00:00,Brightcom Group,773,NSE,EQ,532368,Equity,,,0,09:17:00,Buy,5,5,154.6,
+2022-01-06 00:00:00,Brightcom Group,6032,NSE,EQ,532368,Equity,,,0,09:15:00,Buy,40,40,150.8,
+2022-01-06 00:00:00,Brightcom Group,1500,NSE,EQ,532368,Equity,,,0,09:09:00,Buy,10,10,150,
+2022-01-25 00:00:00,Brightcom Group,854.5,NSE,EQ,532368,Equity,,,0,10:03:00,Buy,5,5,170.9,
+2022-02-11 00:00:00,Brightcom Group,316.1,NSE,EQ,532368,Equity,,,0,09:17:00,Buy,2,2,158.05,
+2022-05-30 00:00:00,Brightcom Group,0,NSE,EQ,532368,Equity,,,0,00:00:00,Buy,68,68,0,manully free share
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),10200,NSE,EQ,532371,Equity,,,0,10:14:00,Sell,100,-100,102,
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),676.2,NSE,EQ,532371,Equity,,,0,10:09:00,Buy,7,7,96.6,
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),1292.85,NSE,EQ,532371,Equity,,,0,09:59:00,Buy,13,13,99.45,
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),694.4,NSE,EQ,532371,Equity,,,0,09:51:00,Buy,7,7,99.2,
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),4044.15,NSE,EQ,532371,Equity,,,0,09:09:00,Buy,43,43,94.05,
+2021-11-26 00:00:00,Tata Teleservices (Maharashtra),4862.5,NSE,EQ,532371,Equity,,,0,08:55:00,Buy,50,50,97.25,
+2021-11-29 00:00:00,Tata Teleservices (Maharashtra),16080,NSE,EQ,532371,Equity,,,0,09:40:00,Sell,150,-150,107.2,
+2021-11-29 00:00:00,Tata Teleservices (Maharashtra),10155.6,NSE,EQ,532371,Equity,,,0,09:25:00,Buy,104,104,97.65,
+2021-11-29 00:00:00,Tata Teleservices (Maharashtra),6996,NSE,EQ,532371,Equity,,,0,09:12:00,Buy,66,66,106,
+2021-12-23 00:00:00,Tata Teleservices (Maharashtra),1541,NSE,EQ,532371,Equity,,,0,10:23:00,Buy,10,10,154.1,
+2021-12-24 00:00:00,Tata Teleservices (Maharashtra),8090,NSE,EQ,532371,Equity,,,0,09:16:00,Buy,50,50,161.8,
+2022-05-06 00:00:00,Tata Teleservices (Maharashtra),9688,NSE,EQ,532371,Equity,,,0,10:13:00,Sell,70,-70,138.4,
+2022-01-24 00:00:00,MPS Infotecnics,290,NSE,EQ,532411,Equity,,,0,10:34:00,Buy,200,200,1.45,
+2024-07-29 00:00:00,MPS Infotecnics,82,NSE,EQ,532411,Equity,,,0,14:08:00,Sell,200,-200,0.41,
+2021-10-25 00:00:00,Punjab National Bank,90.7,NSE,EQ,532461,Equity,,,0,09:45:00,Buy,2,2,45.35,entry missing so enter manually
+2021-12-23 00:00:00,Punjab National Bank,75.9,NSE,EQ,532461,Equity,,,0,09:45:00,Sell,2,-2,37.95,
+2021-12-20 00:00:00,Jaiprakash Power Ventures,96,NSE,EQ,532627,Equity,,,0,09:46:00,Buy,20,20,4.8,
+2021-12-21 00:00:00,Jaiprakash Power Ventures,150,NSE,EQ,532627,Equity,,,0,11:01:00,Buy,30,30,5,
+2021-12-29 00:00:00,Jaiprakash Power Ventures,332.5,NSE,EQ,532627,Equity,,,0,09:32:00,Buy,50,50,6.65,
+2022-05-25 00:00:00,Jaiprakash Power Ventures,700,NSE,EQ,532627,Equity,,,0,14:32:00,Sell,100,-100,7,
+2022-01-05 00:00:00,FCS Software Solutions,972,NSE,EQ,532666,Equity,,,0,09:28:00,Buy,150,150,6.48,
+2022-01-31 00:00:00,FCS Software Solutions,1012.5,NSE,EQ,532666,Equity,,,0,09:12:00,Buy,150,150,6.75,
+2021-12-20 00:00:00,Suzlon Energy,365,NSE,EQ,532667,Equity,,,0,16:05:00,Buy,50,50,7.3,
+2021-12-29 00:00:00,Suzlon Energy,223.75,NSE,EQ,532667,Equity,,,0,11:40:00,Buy,25,25,8.95,
+2022-01-04 00:00:00,Suzlon Energy,816,NSE,EQ,532667,Equity,,,0,12:25:00,Buy,80,80,10.2,
+2022-01-04 00:00:00,Suzlon Energy,51,NSE,EQ,532667,Equity,,,0,12:25:00,Buy,5,5,10.2,
+2022-01-04 00:00:00,Suzlon Energy,212,NSE,EQ,532667,Equity,,,0,09:43:00,Buy,20,20,10.6,
+2022-01-06 00:00:00,Suzlon Energy,388,NSE,EQ,532667,Equity,,,0,09:43:00,Buy,40,40,9.7,
+2022-01-06 00:00:00,Suzlon Energy,96,NSE,EQ,532667,Equity,,,0,09:41:00,Buy,10,10,9.6,
+2022-01-06 00:00:00,Suzlon Energy,97.5,NSE,EQ,532667,Equity,,,0,09:41:00,Buy,10,10,9.75,
+2022-01-06 00:00:00,Suzlon Energy,96,NSE,EQ,532667,Equity,,,0,09:39:00,Buy,10,10,9.6,
+2022-01-07 00:00:00,Suzlon Energy,105.5,NSE,EQ,532667,Equity,,,0,09:30:00,Buy,10,10,10.55,
+2022-01-25 00:00:00,Suzlon Energy,432,NSE,EQ,532667,Equity,,,0,09:57:00,Buy,40,40,10.8,
+2023-04-12 00:00:00,Suzlon Energy,0,NSE,EQ,532667,Equity,,,0,00:00:00,Buy,71,71,0,manully free share
+2022-01-11 00:00:00,Reliance Power,153,NSE,EQ,532939,Equity,,,0,09:13:00,Buy,10,10,15.3,
+2022-01-11 00:00:00,Reliance Power,1224,NSE,EQ,532939,Equity,,,0,00:22:00,Buy,80,80,15.3,
+2022-01-25 00:00:00,Reliance Power,150,NSE,EQ,532939,Equity,,,0,09:50:00,Buy,10,10,15,
+2022-02-21 00:00:00,Reliance Power,1400,NSE,EQ,532939,Equity,,,0,11:10:00,Sell,100,-100,14,
+2024-06-21 00:00:00,KNR Constructions,2824,NSE,EQ,532942,Equity,,,0,15:09:00,Buy,8,8,353,
+2021-12-29 00:00:00,RattanIndia Power,337.5,NSE,EQ,533122,Equity,,,0,11:35:00,Buy,50,50,6.75,
+2022-01-03 00:00:00,RattanIndia Power,770,NSE,EQ,533122,Equity,,,0,09:30:00,Buy,100,100,7.7,
+2022-01-03 00:00:00,RattanIndia Power,382.5,NSE,EQ,533122,Equity,,,0,09:22:00,Buy,50,50,7.65,
+2022-01-06 00:00:00,RattanIndia Power,2220,NSE,EQ,533122,Equity,,,0,10:09:00,Buy,300,300,7.4,
+2022-01-06 00:00:00,RattanIndia Power,43.8,NSE,EQ,533122,Equity,,,0,10:08:00,Buy,6,6,7.3,
+2022-01-07 00:00:00,RattanIndia Power,750,NSE,EQ,533122,Equity,,,0,09:19:00,Buy,100,100,7.5,
+2022-01-07 00:00:00,RattanIndia Power,700.3,NSE,EQ,533122,Equity,,,0,09:17:00,Buy,94,94,7.45,
+2024-01-18 00:00:00,RattanIndia Power,5250,NSE,EQ,533122,Equity,,,0,12:55:00,Sell,500,-500,10.5,
+2024-07-04 00:00:00,RattanIndia Power,3424,NSE,EQ,533122,Equity,,,0,14:54:00,Sell,200,-200,17.12,
+2021-12-10 00:00:00,Prakash Steelage,381,NSE,EQ,533239,Equity,,,0,09:54:00,Buy,60,60,6.35,
+2021-12-21 00:00:00,Prakash Steelage,52,NSE,EQ,533239,Equity,,,0,11:14:00,Buy,10,10,5.2,
+2021-12-21 00:00:00,Prakash Steelage,52,NSE,EQ,533239,Equity,,,0,11:13:00,Buy,10,10,5.2,
+2021-12-22 00:00:00,Prakash Steelage,50,NSE,EQ,533239,Equity,,,0,10:05:00,Buy,10,10,5,
+2021-12-22 00:00:00,Prakash Steelage,49.5,NSE,EQ,533239,Equity,,,0,10:03:00,Buy,10,10,4.95,
+2021-12-28 00:00:00,Prakash Steelage,922.5,NSE,EQ,533239,Equity,,,0,15:48:00,Buy,150,150,6.15,
+2021-12-29 00:00:00,Prakash Steelage,302.5,NSE,EQ,533239,Equity,,,0,09:27:00,Buy,50,50,6.05,
+2023-11-23 00:00:00,Prakash Steelage,1650,NSE,EQ,533239,Equity,,,0,13:41:00,Sell,300,-300,5.5,
+2021-11-28 00:00:00,Orient Green Power Company,4625,NSE,EQ,533263,Equity,,,0,20:42:00,Buy,500,500,9.25,
+2022-01-21 00:00:00,Orient Green Power Company,4410,NSE,EQ,533263,Equity,,,0,14:02:00,Buy,200,200,22.05,
+2023-09-07 00:00:00,Orient Green Power Company,2740,NSE,EQ,533263,Equity,,,0,15:17:00,Sell,200,-200,13.7,
+2023-11-20 00:00:00,Orient Green Power Company,9280,NSE,EQ,533263,Equity,,,0,14:37:00,Sell,400,-400,23.2,
+2023-08-27 00:00:00,Orient Green Power Company,0,NSE,EQ,533263,Equity,,,0,00:00:00,Buy,214,214,0,
+2024-08-27 00:00:00,Orient Green Power Company,0,NSE,EQ,533263,Equity,,,0,00:00:00,Buy,61,61,0,
+2024-08-27 00:00:00,Orient Green Power Company,392.23,NSE,EQ,533263,Equity,,,0,11:02:00,Sell,61,-61,6.43,
+2022-02-01 00:00:00,Gravita India,3714.5,NSE,EQ,533282,Equity,,,0,12:44:00,Buy,10,10,371.45,
+2021-12-27 00:00:00,RattanIndia Enterprises,460,NSE,EQ,534597,Equity,,,0,10:48:00,Buy,10,10,46,
+2021-12-29 00:00:00,RattanIndia Enterprises,1924,NSE,EQ,534597,Equity,,,0,10:56:00,Buy,40,40,48.1,
+2022-01-04 00:00:00,RattanIndia Enterprises,1032,NSE,EQ,534597,Equity,,,0,09:18:00,Buy,20,20,51.6,
+2022-01-25 00:00:00,RattanIndia Enterprises,533.5,NSE,EQ,534597,Equity,,,0,10:03:00,Buy,10,10,53.35,
+2022-01-25 00:00:00,RattanIndia Enterprises,536.5,NSE,EQ,534597,Equity,,,0,10:01:00,Buy,10,10,53.65,
+2021-11-26 00:00:00,Virtual Global Education,90,NSE,EQ,534741,Equity,,,0,09:24:00,Buy,100,100,0.9,
+2021-11-26 00:00:00,Virtual Global Education,93,NSE,EQ,534741,Equity,,,0,09:19:00,Buy,100,100,0.93,
+2021-11-26 00:00:00,Virtual Global Education,94,NSE,EQ,534741,Equity,,,0,09:19:00,Buy,100,100,0.94,
+2021-11-26 00:00:00,Virtual Global Education,97,NSE,EQ,534741,Equity,,,0,01:40:00,Buy,100,100,0.97,
+2021-12-02 00:00:00,Virtual Global Education,348,NSE,EQ,534741,Equity,,,0,09:16:00,Buy,300,300,1.16,
+2021-12-03 00:00:00,Virtual Global Education,444,NSE,EQ,534741,Equity,,,0,09:30:00,Sell,400,-400,1.11,
+2021-12-21 00:00:00,Virtual Global Education,318,NSE,EQ,534741,Equity,,,0,11:01:00,Buy,200,200,1.59,
+2022-06-03 00:00:00,Virtual Global Education,700,NSE,EQ,534741,Equity,,,0,09:52:00,Sell,500,-500,1.4,
+2021-12-31 00:00:00,Viji Finance,312.5,NSE,EQ,537820,Equity,,,0,13:22:00,Buy,50,50,6.25,
+2021-12-31 00:00:00,Viji Finance,312.5,NSE,EQ,537820,Equity,,,0,13:21:00,Buy,50,50,6.25,
+2022-01-09 00:00:00,Viji Finance,570,NSE,EQ,537820,Equity,,,0,23:24:00,Sell,100,-100,5.7,
+2021-11-24 00:00:00,Capital Trade Links,73.5,NSE,EQ,538476,Equity,,,0,09:36:00,Buy,10,10,7.35,
+2021-11-25 00:00:00,Capital Trade Links,121.1,NSE,EQ,538476,Equity,,,0,09:31:00,Buy,14,14,8.65,
+2021-11-28 00:00:00,Capital Trade Links,10800,NSE,EQ,538476,Equity,,,0,20:48:00,Buy,1000,1000,10.8,
+2021-12-27 00:00:00,Capital Trade Links,5375,NSE,EQ,538476,Equity,,,0,09:15:00,Sell,500,-500,10.75,
+2022-01-03 00:00:00,Capital Trade Links,4160.16,NSE,EQ,538476,Equity,,,0,09:26:00,Sell,324,-324,12.84,
+2024-01-18 00:00:00,Capital Trade Links,40.2,NSE,EQ,538476,Equity,,,0,10:48:00,Sell,1,-1,40.2,
+2024-07-04 00:00:00,Capital Trade Links,2147.78,NSE,EQ,538476,Equity,,,0,14:55:00,Sell,34,-34,63.17,
+2022-01-03 00:00:00,Gita Renewable Energy,1332,NSE,EQ,539013,Equity,,,0,09:39:00,Buy,5,5,266.4,
+2024-06-21 00:00:00,IDFC First Bank,1920.5,NSE,EQ,539437,Equity,,,0,15:14:00,Buy,23,23,83.5,
+2021-12-27 00:00:00,K.P. Energy Limited,4742,NSE,EQ,539686,Equity,,,0,09:52:00,Buy,20,20,237.1,
+2021-12-31 00:00:00,K.P. Energy Limited,2283,NSE,EQ,539686,Equity,,,0,10:10:00,Buy,10,10,228.3,
+2023-03-10 00:00:00,K.P. Energy Limited,0,NSE,EQ,539686,Equity,,,0,00:00:00,Buy,30,30,0,split
+2024-02-26 00:00:00,K.P. Energy Limited,0,NSE,EQ,539686,Equity,,,0,00:00:00,Buy,120,120,0,bonus
+2021-11-15 00:00:00,Lloyds Engineering Works,24.9,NSE,EQ,539992,Equity,,,0,00:45:00,Buy,3,3,8.3,
+2021-11-22 00:00:00,Lloyds Engineering Works,67.55,NSE,EQ,539992,Equity,,,0,09:31:00,Buy,7,7,9.65,
+2021-11-24 00:00:00,Lloyds Engineering Works,442.8,NSE,EQ,539992,Equity,,,0,09:19:00,Buy,40,40,11.07,
+2021-11-24 00:00:00,Lloyds Engineering Works,553.5,NSE,EQ,539992,Equity,,,0,09:18:00,Buy,50,50,11.07,
+2021-11-29 00:00:00,Lloyds Engineering Works,18750,NSE,EQ,539992,Equity,,,0,09:11:00,Buy,1500,1500,12.5,
+2022-02-28 00:00:00,Lloyds Engineering Works,12630,NSE,EQ,539992,Equity,,,0,13:00:00,Sell,1000,-1000,12.63,
+2022-05-09 00:00:00,Lloyds Engineering Works,2766,NSE,EQ,539992,Equity,,,0,09:54:00,Sell,200,-200,13.83,
+2022-05-09 00:00:00,Lloyds Engineering Works,4230,NSE,EQ,539992,Equity,,,0,09:52:00,Sell,300,-300,14.1,
+2024-01-25 00:00:00,Lloyds Engineering Works,0,NSE,EQ,539992,Equity,,,0,00:00:00,Buy,5,5,0,bonus
+2021-12-31 00:00:00,KPIT Technologies,6123,NSE,EQ,542651,Equity,,,0,13:50:00,Buy,10,10,612.3,
+2022-01-28 00:00:00,KPIT Technologies,6411,NSE,EQ,542651,Equity,,,0,09:26:00,Buy,10,10,641.1,
+2022-01-05 00:00:00,Vikas Lifecare,460,NSE,EQ,542655,Equity,,,0,09:20:00,Buy,100,100,4.6,
+2022-01-31 00:00:00,Vikas Lifecare,1923,NSE,EQ,542655,Equity,,,0,09:16:00,Buy,300,300,6.41,
+2021-12-24 00:00:00,Data Patterns (India),1592,NSE,EQ,543428,Equity,,,0,10:11:00,Buy,2,2,796,
+2022-08-12 00:00:00,Data Patterns (India),1664,NSE,EQ,543428,Equity,,,0,09:37:00,Sell,2,-2,832,
+2022-05-09 00:00:00,Campus Activewear,1700,NSE,EQ,543523,Equity,,,0,10:03:00,Buy,5,5,340,
