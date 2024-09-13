@@ -7935,12 +7935,12 @@
             "segment": "FO",
             "exchange": "FON",
             "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-33500-12MAY2022",
-            "days": 0,
-            "quantity": 50.0,
-            "avg_price": 52.0,
-            "sell_price": 58.0,
-            "pnl": 300.0,
+            "stock_name": "BANKNIFTY",
+            "days": 916,
+            "quantity": 605.0,
+            "avg_price": 184.07,
+            "sell_price": 180.3,
+            "pnl": -2278.25,
             "history": [
                 {
                     "scrip_name": "BANKNIFTY-CE-33500-12MAY2022",
@@ -7969,20 +7969,7 @@
                     "close_amount": 1450.0,
                     "pnl_amount": 125.0,
                     "pnl_percentage": 9.43
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-34100-19MAY2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 320.0,
-            "sell_price": 335.0,
-            "pnl": 375.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-34100-19MAY2022",
                     "position": "LONG",
@@ -7996,20 +7983,7 @@
                     "close_amount": 8375.0,
                     "pnl_amount": 375.0,
                     "pnl_percentage": 4.69
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-34200-19MAY2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 339.0,
-            "sell_price": 345.0,
-            "pnl": 150.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-34200-19MAY2022",
                     "position": "LONG",
@@ -8023,20 +7997,7 @@
                     "close_amount": 8625.0,
                     "pnl_amount": 150.0,
                     "pnl_percentage": 1.77
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-34600-10MAR2022",
-            "days": 0,
-            "quantity": 50.0,
-            "avg_price": 12.5,
-            "sell_price": 14.4,
-            "pnl": 95.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-34600-10MAR2022",
                     "position": "LONG",
@@ -8064,20 +8025,7 @@
                     "close_amount": 20.0,
                     "pnl_amount": -255.0,
                     "pnl_percentage": -92.73
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-35100-10MAR2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 240.0,
-            "sell_price": 340.85,
-            "pnl": 2521.25,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-35100-10MAR2022",
                     "position": "LONG",
@@ -8091,20 +8039,7 @@
                     "close_amount": 8521.25,
                     "pnl_amount": 2521.25,
                     "pnl_percentage": 42.02
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-35800-05MAY2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 124.25,
-            "sell_price": 113.0,
-            "pnl": -281.25,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-35800-05MAY2022",
                     "position": "LONG",
@@ -8118,20 +8053,7 @@
                     "close_amount": 2825.0,
                     "pnl_amount": -281.25,
                     "pnl_percentage": -9.05
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-36300-28APR2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 106.0,
-            "sell_price": 121.45,
-            "pnl": 386.25,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-36300-28APR2022",
                     "position": "LONG",
@@ -8145,20 +8067,7 @@
                     "close_amount": 3036.25,
                     "pnl_amount": 386.25,
                     "pnl_percentage": 14.58
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-36500-17MAR2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 175.0,
-            "sell_price": 155.0,
-            "pnl": -500.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-36500-17MAR2022",
                     "position": "LONG",
@@ -8172,20 +8081,7 @@
                     "close_amount": 3875.0,
                     "pnl_amount": -500.0,
                     "pnl_percentage": -11.43
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-46500-21FEB2024",
-            "days": 0,
-            "quantity": 15.0,
-            "avg_price": 469.0,
-            "sell_price": 522.4,
-            "pnl": 801.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-46500-21FEB2024",
                     "position": "LONG",
@@ -8199,20 +8095,7 @@
                     "close_amount": 7836.0,
                     "pnl_amount": 801.0,
                     "pnl_percentage": 11.39
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-49900-12JUN2024",
-            "days": 0,
-            "quantity": 30.0,
-            "avg_price": 98.0,
-            "sell_price": 40.05,
-            "pnl": -1738.5,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-49900-12JUN2024",
                     "position": "LONG",
@@ -8226,20 +8109,7 @@
                     "close_amount": 1201.5,
                     "pnl_amount": -1738.5,
                     "pnl_percentage": -59.13
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-50800-31JUL2024",
-            "days": 0,
-            "quantity": 15.0,
-            "avg_price": 428.0,
-            "sell_price": 445.0,
-            "pnl": 255.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-50800-31JUL2024",
                     "position": "LONG",
@@ -8253,20 +8123,7 @@
                     "close_amount": 6675.0,
                     "pnl_amount": 255.0,
                     "pnl_percentage": 3.97
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-51300-11SEP2024",
-            "days": 0,
-            "quantity": 15.0,
-            "avg_price": 157.8,
-            "sell_price": 126.05,
-            "pnl": -476.25,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-51300-11SEP2024",
                     "position": "LONG",
@@ -8280,20 +8137,7 @@
                     "close_amount": 1890.75,
                     "pnl_amount": -476.25,
                     "pnl_percentage": -20.12
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-CE-51500-07AUG2024",
-            "days": 0,
-            "quantity": 15.0,
-            "avg_price": 376.3,
-            "sell_price": 390.25,
-            "pnl": 209.25,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-CE-51500-07AUG2024",
                     "position": "LONG",
@@ -8307,20 +8151,7 @@
                     "close_amount": 5853.75,
                     "pnl_amount": 209.25,
                     "pnl_percentage": 3.71
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-33900-12MAY2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 200.0,
-            "sell_price": 150.0,
-            "pnl": -1250.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-33900-12MAY2022",
                     "position": "LONG",
@@ -8334,20 +8165,7 @@
                     "close_amount": 3750.0,
                     "pnl_amount": -1250.0,
                     "pnl_percentage": -25.0
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-35300-05MAY2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 75.0,
-            "sell_price": 69.0,
-            "pnl": -150.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-35300-05MAY2022",
                     "position": "LONG",
@@ -8361,20 +8179,7 @@
                     "close_amount": 1725.0,
                     "pnl_amount": -150.0,
                     "pnl_percentage": -8.0
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-35500-02JUN2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 231.0,
-            "sell_price": 205.0,
-            "pnl": -650.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-35500-02JUN2022",
                     "position": "LONG",
@@ -8388,20 +8193,7 @@
                     "close_amount": 5125.0,
                     "pnl_amount": -650.0,
                     "pnl_percentage": -11.26
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-35600-02JUN2022",
-            "days": 0,
-            "quantity": 50.0,
-            "avg_price": 268.5,
-            "sell_price": 257.5,
-            "pnl": -550.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-35600-02JUN2022",
                     "position": "LONG",
@@ -8429,20 +8221,7 @@
                     "close_amount": 6000.0,
                     "pnl_amount": -625.0,
                     "pnl_percentage": -9.43
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-35700-05MAY2022",
-            "days": 0,
-            "quantity": 100.0,
-            "avg_price": 103.5,
-            "sell_price": 99.0,
-            "pnl": -450.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-35700-05MAY2022",
                     "position": "LONG",
@@ -8470,20 +8249,7 @@
                     "close_amount": 5500.0,
                     "pnl_amount": -900.0,
                     "pnl_percentage": -14.06
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-35800-02JUN2022",
-            "days": 0,
-            "quantity": 25.0,
-            "avg_price": 330.0,
-            "sell_price": 310.0,
-            "pnl": -500.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-35800-02JUN2022",
                     "position": "LONG",
@@ -8497,20 +8263,7 @@
                     "close_amount": 7750.0,
                     "pnl_amount": -500.0,
                     "pnl_percentage": -6.06
-                }
-            ]
-        },
-        {
-            "segment": "FO",
-            "exchange": "FON",
-            "symbol": "BANKNIFTY",
-            "stock_name": "BANKNIFTY-PE-46500-21FEB2024",
-            "days": 0,
-            "quantity": 15.0,
-            "avg_price": 430.0,
-            "sell_price": 375.0,
-            "pnl": -825.0,
-            "history": [
+                },
                 {
                     "scrip_name": "BANKNIFTY-PE-46500-21FEB2024",
                     "position": "LONG",
